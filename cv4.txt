@@ -1,0 +1,23 @@
+website: [u'http://duncan.com/', u'https://smith-rodriguez.biz/']
+username: jpineda
+name: Howard Smith
+blood_group: AB-
+residence: 336 Parker Walk Apt. 246
+Michaelmouth, ID 44122
+company: Sullivan PLC
+address: 38606 Black Forge Apt. 552
+Brianfort, NC 33703-3242
+birthdate: 1970-01-13
+sex: M
+job: Biochemist, clinical
+ssn: 179-63-8347
+current_location: (Decimal('-70.7147775'), Decimal('-46.804455'))
+mail: shawn66@hotmail.com
+Rerum ullam repudiandae occaecati. Velit itaque vero voluptates aperiam provident quis deleniti. Quos aspernatur laudantium atque. Et corrupti inventore dolore ad aut consequatur dolorum.
+Skills:
+- .net;
+- js;
+- php;
+- matlab;
+- matlab;
+Repellat nemo sed sed earum nesciunt ducimus. Provident vero soluta corrupti eius omnis adipisci officiis.
